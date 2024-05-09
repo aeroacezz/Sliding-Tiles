@@ -1,0 +1,238 @@
+body{
+    background-color: rgb(0, 0, 0);
+    font-size: 1em;
+
+    margin: 4em;
+}
+/*
+#myButton{
+    position: relative;
+    column-rule-color: rgb(156, 153, 153);
+    margin: 2em;
+    top: -200px;
+    font-size: 2em;
+    height: 2em;
+    width: 5em;
+}
+#myButton:active{
+    background-color: grey;
+}
+*/
+/* --------------------------------------------- */
+
+@keyframes SlidePanel{
+    from{
+        margin-left: 0%;
+    }
+    35% {
+        margin-left: 90%;
+    }
+    to{
+        margin-left: 0%;
+    }
+/*
+    0%{background-color: red;}
+    10%{background-color: orange;}
+    20%{background-color: yellow;}
+    30%{background-color: green;}
+    40%{background-color: blue;}
+    50%{background-color: indigo;}
+    60%{background-color: violet;}
+    70%{background-color: grey;}
+    80%{background-color: silver}
+    90%{background-color: white;}
+    100%{background-color: black;}
+    }
+*/
+}
+
+
+#Box1{
+    animation: 1s SlidePanel 1.01s 10 ease-in-out;
+}
+#b1{
+    animation: 2s SlidePanel 10s 3 ease-in-out;
+}
+/* --------------------------------------------- */
+#Box2{
+    animation: 1.01s SlidePanel 1.02s 10 ease-in-out;
+}
+#b2{
+    animation: 2.02s SlidePanel 10.1s 3 ease-in-out;
+}
+/* --------------------------------------------- */
+#Box3{
+    animation: 1.02s SlidePanel 1.03s 10 ease-in-out;
+}
+#b3{
+    animation: 2.04s SlidePanel 10.2s 3 ease-in-out;
+}
+/* --------------------------------------------- */
+#Box4{
+    animation: 1.03s SlidePanel 1.04s 10 ease-in-out;
+}
+#b4{
+    animation: 2.04s SlidePanel 10.3s 3 ease-in-out;
+}
+/* --------------------------------------------- */
+#Box5{
+    animation: 1.04s SlidePanel 1.05s 10 ease-in-out;
+}
+#b5{
+    animation: 2.04s SlidePanel 10.4s 3 ease-in-out;
+}
+/* --------------------------------------------- */
+#Box6{
+    animation: 1.05s SlidePanel 1.06s 10 ease-in-out;
+}
+#b6{
+    animation: 2.04s SlidePanel 10.5s 3 ease-in-out;
+}
+/* --------------------------------------------- */
+#Box7{
+    animation: 1.06s SlidePanel 1.07s 10 ease-in-out;
+}
+#b7{
+    animation: 2.04s SlidePanel 10.6s 3 ease-in-out;
+}
+/* --------------------------------------------- */
+#Box8{
+    animation: 1.07s SlidePanel 1.08s 10 ease-in-out;
+}
+#b8{
+    animation: 2.04s SlidePanel 10.7s 3 ease-in-out;
+}
+/* --------------------------------------------- */
+#Box9{
+    animation: 1.08s SlidePanel 1.09s 10 ease-in-out;
+}
+#b9{
+    animation: 2.04s SlidePanel 10.8s 3 ease-in-out;
+}
+/* --------------------------------------------- */
+#Box10{
+    animation: 1.09s SlidePanel 1.10s 10 ease-in-out;
+}
+#b10{
+    animation: 2.04s SlidePanel 10.9s 3 ease-in-out;
+}
+
+/* --------------------------------------------- */
+#Box1{
+    width: 20px;
+    height: 64px;
+    padding: 3px;
+    border: 2px solid;
+    background-color: white;
+  
+
+}
+#Box2{
+    width: 20px;
+    height: 64px;
+    padding: 3px;
+    border: 2px solid;
+    background-color: white;
+
+    position: relative;
+    top: -20px;
+  
+}
+#Box3{
+    width: 20px;
+    height: 64px;
+    padding: 3px;
+    border: 2px solid;
+    background-color: white;
+
+    position: relative;
+    top: -40px;
+   
+}
+#Box4{
+    width: 20px;
+    height: 64px;
+    padding: 3px;
+    border: 2px solid;
+    background-color: white;
+
+    position: relative;
+    top: -60px;
+    
+}
+#Box5{
+    width: 20px;
+    height: 64px;
+    padding: 3px;
+    border: 2px solid;
+    background-color: white;
+
+    position: relative;
+    top: -80px;
+ 
+}
+#Box6{
+    width: 20px;
+    height: 64px;
+    padding: 3px;
+    border: 2px solid;
+    background-color: white;
+
+    position: relative;
+    top: -100px;
+   
+}
+#Box7{
+    width: 20px;
+    height: 64px;
+    padding: 3px;
+    border: 2px solid;
+    background-color: white;
+
+    position: relative;
+    top: -120px;
+   
+}
+#Box8{
+    width: 20px;
+    height: 64px;
+    padding: 3px;
+    border: 2px solid;
+    background-color: white;
+
+    position: relative;
+    top: -140px;
+    
+}
+#Box9{
+    width: 20px;
+    height: 64px;
+    padding: 3px;
+    border: 2px solid;
+    background-color: white;
+
+    position: relative;
+    top: -160px;
+    
+}
+#Box10{
+    width: 20px;
+    height: 64px;
+    padding: 3px;
+    border: 2px solid;
+    background-color: white;
+
+    position: relative;
+    top: -180px;
+  
+}
+
+
+
+
+
+
+
+
+
+
